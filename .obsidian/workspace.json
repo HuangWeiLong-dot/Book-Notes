@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "1cc5c153ef6ded82",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9855af89861b2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7398ae0d94ad66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Henry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Henry"
+            }
+          },
+          {
+            "id": "d05262b17d13ff8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clare"
+            }
+          },
+          {
+            "id": "1248f4e532dc7da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The_Time_Traveler's_Wife/2026-01-12-Vocabulary-TheTimeTravelersWife.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-12-Vocabulary-TheTimeTravelersWife"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4fef76bae5cab18",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c23c4ec3f5c7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811010b6c76e912f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d6df908e979da67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Henry",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d252b1c1ef886140",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "b5c21bc89362d4f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9510dc46f71066f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570ccbfa71544d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The_Time_Traveler's_Wife/2026-01-09/2026-01-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-01-09 的反向链接列表"
+            }
+          },
+          {
+            "id": "ccbf4d6cbd68708a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The_Time_Traveler's_Wife/2026-01-09/2026-01-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-01-09 的出链列表"
+            }
+          },
+          {
+            "id": "4f0b1f42165d0d6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e54dee9434b443d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ba9a81c2d3ebd598",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The_Time_Traveler's_Wife/2026-01-09/2026-01-09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-09 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1248f4e532dc7da5",
+  "lastOpenFiles": [
+    "2026-01-12.md",
+    "Base/The Time Traveler's Wife.base",
+    "Index.md",
+    "Events.md",
+    "Learn To Survive.md",
+    "Year/1973.md",
+    "Henry.md",
+    "First Time Travel.md",
+    "Age/5.md",
+    "Year/1968.md",
+    "Year",
+    "The_Time_Traveler's_Wife/2026-01-12-Phrase-TheTimeTravelersWife.md",
+    "Age",
+    "Phrase.md",
+    "The_Time_Traveler's_Wife/2026-01-11-Phrase-TheTimeTravelersWife.md",
+    "The_Time_Traveler's_Wife/2026-01-10-Phrase-TheTimeTravelersWife.md",
+    "The_Time_Traveler's_Wife/2026-01-09-Phrase-TheTimeTravelersWife.md",
+    "2026-01-09.md",
+    "Date.md",
+    "The_Time_Traveler's_Wife/2026-01-12-Vocabulary-TheTimeTravelersWife.md",
+    "2026-01-11.md",
+    "The_Time_Traveler's_Wife/2026-01-11-Vocabulary-TheTimeTravelersWife.md",
+    "Vocabulary.md",
+    "The_Time_Traveler's_Wife/2026-01-10-Vocabulary-TheTimeTravelersWife.md",
+    "2026-01-10.md",
+    "The_Time_Traveler's_Wife/2026-01-09-Vocabulary-TheTimeTravelersWife.md",
+    "Different_Seasons/2026-01-09-Vocabulary-DifferentSeasons.md",
+    "Clare.md",
+    "Base/Clare.base",
+    "Base/Henry.base",
+    "Base/2026-01-12.base",
+    "未命名.canvas",
+    "Time-Travelers-Wife-EBook.pdf",
+    "Base/2026-01-11.base",
+    "Base/2026-01-10.base",
+    "Base/2026-01-09.base"
+  ]
+}

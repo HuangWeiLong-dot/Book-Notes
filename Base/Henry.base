@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.tags.contains("henry")
+    - file.tags.contains("age")
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - association
+    columnSize:
+      file.name: 260

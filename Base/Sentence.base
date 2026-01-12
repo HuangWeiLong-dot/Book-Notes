@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.tags.contains("sentence")
+    - '!file.basename.contains("template")'
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - Amounts
+      - Date
+    sort:
+      - property: tags
+        direction: ASC
+    summaries:
+      Amounts: Sum
+    columnSize:
+      note.tags: 241

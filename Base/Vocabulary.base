@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.tags.contains("vocabulary")
+    - '!file.name.contains("template")'
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - Amounts
+      - Date
+    sort:
+      - property: Amounts
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    summaries:
+      Amounts: Sum
+    columnSize:
+      file.name: 365
+      file.tags: 274

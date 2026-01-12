@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.tags.contains("differentseasons")
+    - '!file.name.contains("template")'
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - categories
+      - Date

@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.tags.contains("date")
+    - '!file.name.contains("template")'
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - Date
+    sort:
+      - property: Amounts
+        direction: ASC
+    summaries:
+      Amounts: Sum
+    columnSize:
+      file.name: 86
+      file.tags: 486
+      note.Date: 366

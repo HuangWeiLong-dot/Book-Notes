@@ -1,0 +1,7 @@
+filters:
+  or:
+    - Date == "{{date}}"
+    - file.tags.contains("index")
+views:
+  - type: table
+    name: 表格

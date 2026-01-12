@@ -1,0 +1,13 @@
+filters:
+  or:
+    - Date == "2026-01-12"
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - file.tags
+      - Amounts
+      - Date
+    summaries:
+      Amounts: Sum
