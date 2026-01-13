@@ -1,0 +1,15 @@
+filters:
+  and:
+    - Date == "2026-01-13"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Amounts
+      - Date
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      Amounts: Sum
