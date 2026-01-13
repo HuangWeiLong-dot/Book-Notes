@@ -1,0 +1,25 @@
+---
+tags:
+  - 首字母/A
+  - 级别/高考四级
+掌握: false
+模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 250
+到期日: 2025-04-30
+---
+# annoyed
+##### 词义
+- 英：/əˈnɔɪd/； 美：/əˈnɔɪd/
+- #词性/adj  生气；烦恼；恼怒
+- #词性/v  使恼怒；使生气；打扰；骚扰
+##### 例句
+- I was annoyed that they hadn 't turned up .
+	- 我恼怒的是他们没有露面。
+- Annoyed commuters could only watch as the departure time ticked by .
+	- 随着发车时间一点点过去，恼怒的上班族只能干瞪眼。
+- I was well annoyed , I can tell you .
+	- 我跟你说吧，我那时气坏了。
+##### 形态
+- #形态/word_proto annoy

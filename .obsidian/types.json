@@ -5,6 +5,8 @@
     "tags": "tags",
     "Amounts": "number",
     "Pages Read": "number",
-    "Time Spent": "text"
+    "Time Spent": "text",
+    "Date": "date",
+    "a": "checkbox"
   }
 }

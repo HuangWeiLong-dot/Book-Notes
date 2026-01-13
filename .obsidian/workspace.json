@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9855af89861b2c",
+        "id": "486e6ed5a1dcd1b9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7398ae0d94ad66f",
+            "id": "005adaac7ce4bf0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Henry.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Base/2026-01-12.base",
+                "bFile": "Base/2026-01-12.base",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Henry"
+              "icon": "diff",
+              "title": "Diff: 2026-01-12.base  (Working Tree)"
             }
           },
           {
-            "id": "d05262b17d13ff8c",
+            "id": "11b7e8d4a9fca895",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Clare.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2026-01-09.md",
+                "bFile": "2026-01-09.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Clare"
-            }
-          },
-          {
-            "id": "1248f4e532dc7da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The_Time_Traveler's_Wife/2026-01-12-Vocabulary-TheTimeTravelersWife.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-12-Vocabulary-TheTimeTravelersWife"
+              "icon": "diff",
+              "title": "Diff: 2026-01-09  (Working Tree)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Henry",
+                "query": "[\"categories\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -102,8 +88,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "e54dee9434b443d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The_Time_Traveler's_Wife/2026-01-09/2026-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-09 的出链列表"
+              "title": "Outgoing links"
             }
           },
           {
@@ -162,21 +162,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "e54dee9434b443d7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "title": "Tags"
             }
           },
           {
@@ -185,70 +171,85 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The_Time_Traveler's_Wife/2026-01-09/2026-01-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-09 的大纲"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "27c6d2947230f172",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "bases:Create new base": false,
+      "openwords:OpenWords": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1248f4e532dc7da5",
+  "active": "11b7e8d4a9fca895",
   "lastOpenFiles": [
-    "2026-01-12.md",
-    "Base/The Time Traveler's Wife.base",
-    "Index.md",
-    "Events.md",
-    "Learn To Survive.md",
-    "Year/1973.md",
-    "Henry.md",
-    "First Time Travel.md",
-    "Age/5.md",
-    "Year/1968.md",
-    "Year",
-    "The_Time_Traveler's_Wife/2026-01-12-Phrase-TheTimeTravelersWife.md",
-    "Age",
-    "Phrase.md",
-    "The_Time_Traveler's_Wife/2026-01-11-Phrase-TheTimeTravelersWife.md",
-    "The_Time_Traveler's_Wife/2026-01-10-Phrase-TheTimeTravelersWife.md",
-    "The_Time_Traveler's_Wife/2026-01-09-Phrase-TheTimeTravelersWife.md",
-    "2026-01-09.md",
-    "Date.md",
+    "The_Time_Traveler's_Wife/2026-01-13-Vocabulary-TheTimeTravelersWife.md",
+    "2026-01-13.md",
     "The_Time_Traveler's_Wife/2026-01-12-Vocabulary-TheTimeTravelersWife.md",
-    "2026-01-11.md",
+    "2026-01-12.md",
     "The_Time_Traveler's_Wife/2026-01-11-Vocabulary-TheTimeTravelersWife.md",
-    "Vocabulary.md",
+    "2026-01-11.md",
+    "English/英语单词/words/A/abase.md",
+    "English/英语单词/索引/GRE/GRE.A.md",
+    "English/英语单词/索引/GRE/单词索引.GRE.md",
+    "English/英语单词/words/R/resplendent.md",
     "The_Time_Traveler's_Wife/2026-01-10-Vocabulary-TheTimeTravelersWife.md",
     "2026-01-10.md",
+    "The_Time_Traveler's_Wife/2026-01-10-Sentence-TheTimeTravelersWife.md",
     "The_Time_Traveler's_Wife/2026-01-09-Vocabulary-TheTimeTravelersWife.md",
-    "Different_Seasons/2026-01-09-Vocabulary-DifferentSeasons.md",
-    "Clare.md",
-    "Base/Clare.base",
-    "Base/Henry.base",
-    "Base/2026-01-12.base",
-    "未命名.canvas",
-    "Time-Travelers-Wife-EBook.pdf",
-    "Base/2026-01-11.base",
-    "Base/2026-01-10.base",
-    "Base/2026-01-09.base"
+    "2026-01-09.md",
+    "admixture.md",
+    "English/英语单词/words/G/grin.md",
+    "English/英语单词/words/A/a.m..md",
+    "English/英语单词/words/I/inelastic.md",
+    "English/TOEFL/TOEFL Reading/Advancements in 3D Bioprinting.md",
+    "content/欢迎.md",
+    "content/笔记/形式科学/JavaScript/JS.continue.md",
+    "content/笔记/形式科学/JavaScript/JS.async function.md",
+    "content/笔记/形式科学/JavaScript/JS.async function`.md",
+    "content/笔记/文档/OpenText 2024 年.md",
+    "content/笔记/形式科学/Git/git push.md",
+    "content/英语单词.base",
+    "content/笔记/OpenText 说明/logo.png",
+    "Excalidraw",
+    "Untitled.base",
+    "Books",
+    "Persons",
+    "Events",
+    "Base/2026-01-13.base",
+    "Base/The Time Traveler's Wife.base",
+    "Year",
+    "Age",
+    "未命名.canvas"
   ]
 }

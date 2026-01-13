@@ -6,5 +6,10 @@ views:
     name: 表格
     order:
       - file.name
-      - file.tags
+      - Amounts
       - Date
+    sort:
+      - property: Amounts
+        direction: ASC
+    summaries:
+      Amounts: Sum

@@ -1,0 +1,26 @@
+---
+tags:
+  - 首字母/E
+  - 级别/考研
+  - 级别/六级
+  - 级别/雅思
+  - 级别/托福
+  - 级别/GRE
+掌握: false
+模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 250
+到期日: 2025-04-30
+---
+# empirical
+##### 词义
+- 英：/ɪmˈpɪrɪkl/； 美：/ɪmˈpɪrɪkl/
+- #词性/adj  经验主义的；以实验(或经验)为依据的
+##### 例句
+- State of the art : Cold forging process design is still highly based on empirical rules and experience .
+	- 整体上讲冷锻工艺流程的设计还十分依赖于经验主义的规则。
+- Wilson expounded a system for bibliographic apparatus , and provided the framework for empirical theoretical development .
+	- 威尔逊阐述了一个关于书目资料的系统，并且为经验主义的发展提供了体系结构。
+- There is no empirical evidence to support his thesis .
+	- 他的论文缺乏实验证据的支持。

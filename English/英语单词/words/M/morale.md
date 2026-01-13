@@ -1,0 +1,22 @@
+---
+tags:
+  - 首字母/M
+  - 级别/高考四级
+掌握: false
+模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 250
+到期日: 2025-04-30
+---
+# morale
+##### 词义
+- 英：/məˈrɑːl/； 美：/məˈræl/
+- #词性/n  士气
+##### 例句
+- Morale amongst the players is very high at the moment .
+	- 此刻各选手士气高昂。
+- Winning the competition was a wonderful boost for her morale .
+	- 赢得了那场比赛使她士气大振。
+- Morale among teachers is at a low ebb .
+	- 教师的精神面貌不佳。

@@ -1,0 +1,25 @@
+---
+tags:
+  - 首字母/V
+  - 级别/高考四级
+掌握: false
+模糊: false
+间隔: 0
+重复次数: 0
+易记因子: 250
+到期日: 2025-04-30
+---
+# vowel
+##### 词义
+- 英：/ˈvaʊəl/； 美：/ˈvaʊəl/
+- #词性/n  元音；元音字母
+- #词性/adj  母音的
+##### 例句
+- Each language has a different vowel system .
+	- 每种语言都有不同的元音系统。
+- The vowel in words like ' my ' and ' thigh ' is not very difficult .
+	- 单词my和thigh中的元音并不难发。
+- The alphabet might be more rational if all the vowels came first
+	- 如果把所有的元音列在前面，字母表可能会更为合理一些。
+##### 形态
+- #形态/word_pl vowels

@@ -15,6 +15,6 @@ views:
     summaries:
       Amounts: Sum
     columnSize:
-      file.name: 86
-      file.tags: 486
+      file.name: 89
+      file.tags: 257
       note.Date: 366
