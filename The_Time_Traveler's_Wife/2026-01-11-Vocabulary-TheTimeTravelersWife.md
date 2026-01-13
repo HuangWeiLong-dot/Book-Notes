@@ -10,143 +10,142 @@ on: "[[2026-01-11]]"
 ---
 # Vocabulary
 
-1. diorama
-2. surpass
-3. surpassingly
-4. surpassing
-5. mindlessness
-6. hummingbird
-7. pajama
-8. offspring
-9. musically
-10. squiggle
-11. aptitude
-12. chime
-13. yowl
-14. dissolved
-15. sleeveless
-16. resplendent
-17. flamboyance
-18. cart
-19. dome
-20. domed
-21. facade
-22. enchant
-23. mislay
-24. rapture
-25. halt
-26. cougar
-27. muskrat
-28. mummy
-29. Neanderthal
-30. gruff
-31. panache
-32. cicada
-33. savage
-34. soothe
-35. wary
-36. nocturnal
-37. fumble
-38. foyer
-39. vomit
-40. tile
-41. addled
-42. congregate
-43. gooseflesh
-44. clammy
-45. fetter
-46. dredge
-47. mania
-48. maniac
-49. bisect
-50. loom
-51. menace
-52. menacing
-53. menacingly
-54. ornamental
-55. insignia
-56. bobby pin
-57. occupant
-58. dense
-59. ashtray
-60. articulate
-61. articulated
-62. lapel
-63. appropriate
-64. bodily
-65. caress
-66. caressing
-67. silhouette
-68. backlit
-69. replicate
-70. whoosh
-71. scrape
-72. nibble
-73. halve
-74. reasonably
-75. gasp
-76. thud
-77. pad
-78. slant
-79. wary
-80. spiky
-81. wiry
-82. coltish
-83. cushion
-84. normality
-85. quizzical
-86. craggy
-87. streak
-88. meteorite
-89. perch
-90. saucer
-91. goldfinch
-92. equivocation
-93. seduction
-94. recollect
-95. shrug
-96. contemplate
-97. wiggle
-98. prong
-99. presto
-100. sesame
-101. periodical
-102. bona
-103. felt
-104. crumb
-105. attentive
-106. attentively
-107. bunting
-108. engraving
-109. stroke
-110. delicately
-111. amiable
-112. amiably
-113. stuffed
-114. magnificence
-115. stagger
-116. sour
-117. munch
-118. edible
-119. slam
-120. pell
-121. mell
-122. oblivious
-123. jumper
-124. loafer
-125. implement
-126. stubby
-127. crayon
-128. smelly
-129. stationery
-130. swirl
-131. content
-132. absorbed
-133. reverie
-134. hiss
-135. Earthing
-136. nimrod
-137. staunch
-138. muffled
-139. glower
-140. clutch
+1. [ ] [[diorama]]
+2. [ ] [[surpass]]
+3. [ ] [[surpassingly]]
+4. [ ] [[surpassing]]
+5. [ ] [[mindlessness]]
+6. [ ] [[hummingbird]]
+7. [ ] [[pajama]]
+8. [ ] [[offspring]]
+9. [ ] [[musically]]
+10. [ ] [[squiggle]]
+11. [ ] [[aptitude]]
+12. [ ] [[chime]]
+13. [ ] [[yowl]]
+14. [ ] [[dissolved]]
+15. [ ] [[sleeveless]]
+16. [ ] [[resplendent]]
+17. [ ] [[flamboyance]]
+18. [ ] [[cart]]
+19. [ ] [[dome]]
+20. [ ] [[domed]]
+21. [ ] [[facade]]
+22. [ ] [[enchant]]
+23. [ ] [[mislay]]
+24. [ ] [[rapture]]
+25. [ ] [[halt]]
+26. [ ] [[cougar]]
+27. [ ] [[muskrat]]
+28. [ ] [[mummy]]
+29. [ ] [[Neanderthal]]
+30. [ ] [[gruff]]
+31. [ ] [[panache]]
+32. [ ] [[cicada]]
+33. [ ] [[savage]]
+34. [ ] [[soothe]]
+35. [ ] [[wary]]
+36. [ ] [[nocturnal]]
+37. [ ] [[fumble]]
+38. [ ] [[foyer]]
+39. [ ] [[vomit]]
+40. [ ] [[tile]]
+41. [ ] [[addled]]
+42. [ ] [[congregate]]
+43. [ ] [[gooseflesh]]
+44. [ ] [[clammy]]
+45. [ ] [[fetter]]
+46. [ ] [[dredge]]
+47. [ ] [[mania]]
+48. [ ] [[maniac]]
+49. [ ] [[bisect]]
+50. [ ] [[loom]]
+51. [ ] [[menace]]
+52. [ ] [[menacing]]
+53. [ ] [[menacingly]]
+54. [ ] [[ornamental]]
+55. [ ] [[insignia]]
+56. [ ] [[occupant]]
+57. [ ] [[dense]]
+58. [ ] [[ashtray]]
+59. [ ] [[articulate]]
+60. [ ] [[articulated]]
+61. [ ] [[lapel]]
+62. [ ] [[appropriate]]
+63. [ ] [[bodily]]
+64. [ ] [[caress]]
+65. [ ] [[caressing]]
+66. [ ] [[silhouette]]
+67. [ ] [[backlit]]
+68. [ ] [[replicate]]
+69. [ ] [[whoosh]]
+70. [ ] [[scrape]]
+71. [ ] [[nibble]]
+72. [ ] [[halve]]
+73. [ ] [[reasonably]]
+74. [ ] [[gasp]]
+75. [ ] [[thud]]
+76. [ ] [[pad]]
+77. [ ] [[slant]]
+78. [ ] [[wary]]
+79. [ ] [[spiky]]
+80. [ ] [[wiry]]
+81. [ ] [[coltish]]
+82. [ ] [[cushion]]
+83. [ ] [[normality]]
+84. [ ] [[quizzical]]
+85. [ ] [[craggy]]
+86. [ ] [[streak]]
+87. [ ] [[meteorite]]
+88. [ ] [[perch]]
+89. [ ] [[saucer]]
+90. [ ] [[goldfinch]]
+91. [ ] [[equivocation]]
+92. [ ] [[seduction]]
+93. [ ] [[recollect]]
+94. [ ] [[shrug]]
+95. [ ] [[contemplate]]
+96. [ ] [[wiggle]]
+97. [ ] [[prong]]
+98. [ ] [[presto]]
+99. [ ] [[sesame]]
+100. [ ] [[periodical]]
+101. [ ] [[bona]]
+102. [ ] [[felt]]
+103. [ ] [[crumb]]
+104. [ ] [[attentive]]
+105. [ ] [[attentively]]
+106. [ ] [[bunting]]
+107. [ ] [[engraving]]
+108. [ ] [[stroke]]
+109. [ ] [[delicately]]
+110. [ ] [[amiable]]
+111. [ ] [[amiably]]
+112. [ ] [[stuffed]]
+113. [ ] [[magnificence]]
+114. [ ] [[stagger]]
+115. [ ] [[sour]]
+116. [ ] [[munch]]
+117. [ ] [[edible]]
+118. [ ] [[slam]]
+119. [ ] [[pell]]
+120. [ ] [[mell]]
+121. [ ] [[oblivious]]
+122. [ ] [[jumper]]
+123. [ ] [[loafer]]
+124. [ ] [[implement]]
+125. [ ] [[stubby]]
+126. [ ] [[crayon]]
+127. [ ] [[smelly]]
+128. [ ] [[stationery]]
+129. [ ] [[swirl]]
+130. [ ] [[content]]
+131. [ ] [[absorbed]]
+132. [ ] [[reverie]]
+133. [ ] [[hiss]]
+134. [ ] [[Earthing]]
+135. [ ] [[nimrod]]
+136. [ ] [[staunch]]
+137. [ ] [[muffled]]
+138. [ ] [[glower]]
+139. [ ] [[clutch]]

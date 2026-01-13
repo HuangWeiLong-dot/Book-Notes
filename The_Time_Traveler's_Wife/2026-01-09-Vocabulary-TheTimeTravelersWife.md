@@ -11,83 +11,83 @@ on: "[[2026-01-09]]"
 # Vocabulary
 
 1. [x] debut
-2. [ ] adventuresome
-3. [ ] periodically
-4. [ ] harrowing
-5. [ ] depict
-6. [ ] unfold
-7. [ ] elation
-8. [ ] peel
-9. [ ] intensify
-10. [ ] plaid
-11. [ ] maroon
-12. [ ] ditch
-13. [ ] jaybird
-14. [ ] shiver
-15. [ ] shivering
-16. [ ] tedious
+2. [x] adventuresome
+3. [x] periodically
+4. [x] harrowing
+5. [x] depict
+6. [x] unfold
+7. [x] elation
+8. [x] peel
+9. [x] intensify
+10. [x] plaid
+11. [x] maroon
+12. [x] ditch
+13. [x] jaybird
+14. [x] shiver
+15. [x] shivering
+16. [x] tedious
 17. [ ] vertiginous
-18. [ ] sensation
+18. [x] sensation
 19. [ ] tingle
 20. [ ] flail
-21. [ ] concuss
-22. [ ] crackly
-23. [ ] transistor
-24. [ ] Mercifully
+21. [x] concuss
+22. [x] crackly
+23. [x] transistor
+24. [x] Mercifully
 25. [ ] lapse
-26. [ ] unconsciousness
-27. [ ] lean
-28. [ ] euphoric
+26. [x] unconsciousness
+27. [x] lean
+28. [x] euphoric
 29. [ ] sublime
 30. [ ] aura
-31. [ ] nauseat
-32. [ ] nauseated
-33. [ ] suburban
+31. [x] nauseat
+32. [x] nauseated
+33. [x] suburban
 34. [ ] geranium
 35. [ ] vagrant
-36. [ ] startle
-37. [ ] doze
-38. [ ] mob
-39. [ ] sojourn
-40. [ ] sedate
-41. [ ] domesticity
-42. [ ] disperse
-43. [ ] symmetry
-44. [ ] patron
-45. [ ] vat
-46. [ ] crumple
-47. [ ] mold
-48. [ ] fleeting
-49. [ ] realm
-50. [ ] unsayable
+36. [x] startle
+37. [x] doze
+38. [x] mob
+39. [x] sojourn
+40. [x] sedate
+41. [x] domesticity
+42. [x] disperse
+43. [x] symmetry
+44. [x] patron
+45. [x] vat
+46. [x] crumple
+47. [x] mold
+48. [x] fleeting
+49. [x] realm
+50. [x] unsayable
 51. [ ] forebode
 52. [ ] foreboding
-53. [ ] dim
-54. [ ] dimly
-55. [ ] jubilant
-56. [ ] refrain
-57. [ ] radiantly
-58. [ ] Meadow
-59. [ ] multiplication
-60. [ ] stud
-61. [ ] whoop
-62. [ ] whooping
-63. [ ] rejoicing
-64. [ ] throb
-65. [ ] weasel
-66. [ ] astoundingly
+53. [x] dim
+54. [x] dimly
+55. [x] jubilant
+56. [x] refrain
+57. [x] radiantly
+58. [x] Meadow
+59. [x] multiplication
+60. [x] stud
+61. [x] whoop
+62. [x] whooping
+63. [x] rejoicing
+64. [x] throb
+65. [x] weasel
+66. [x] astoundingly
 67. [ ] lurch
-68. [ ] luminous
-69. [ ] evocative
-70. [ ] waft
-71. [ ] daze
-72. [ ] countertop
-73. [ ] behold
-74. [ ] plethora
-75. [ ] plethoric
-76. [ ] unanswerable
-77. [ ] cranky
-78. [ ] velvet
-79. [ ] geisha
-80. [ ] waxwork
+68. [x] luminous
+69. [x] evocative
+70. [x] waft
+71. [x] daze
+72. [x] countertop
+73. [x] behold
+74. [x] plethora
+75. [x] plethoric
+76. [x] unanswerable
+77. [x] cranky
+78. [x] velvet
+79. [x] geisha
+80. [x] waxwork
 81. [ ] thrust
