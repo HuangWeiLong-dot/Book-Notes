@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "005adaac7ce4bf0e",
+            "id": "e3c38e6cd0ae47c3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Base/2026-01-12.base",
-                "bFile": "Base/2026-01-12.base",
-                "aRef": ""
+                "file": "English/英语单词/words/A/a.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-12.base  (Working Tree)"
-            }
-          },
-          {
-            "id": "11b7e8d4a9fca895",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "2026-01-09.md",
-                "bFile": "2026-01-09.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-01-09  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "a"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"categories\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +88,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/英语单词/words/A/a.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of a"
             }
           },
           {
@@ -211,8 +196,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11b7e8d4a9fca895",
+  "active": "811010b6c76e912f",
   "lastOpenFiles": [
+    "English/TOEFL/TOEFL Reading/Leonardo da Vinci.md",
     "The_Time_Traveler's_Wife/2026-01-13-Vocabulary-TheTimeTravelersWife.md",
     "2026-01-13.md",
     "The_Time_Traveler's_Wife/2026-01-12-Vocabulary-TheTimeTravelersWife.md",
@@ -238,7 +224,6 @@
     "content/笔记/形式科学/JavaScript/JS.async function.md",
     "content/笔记/形式科学/JavaScript/JS.async function`.md",
     "content/笔记/文档/OpenText 2024 年.md",
-    "content/笔记/形式科学/Git/git push.md",
     "content/英语单词.base",
     "content/笔记/OpenText 说明/logo.png",
     "Excalidraw",
