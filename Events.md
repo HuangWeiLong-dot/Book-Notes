@@ -1,8 +1,9 @@
 ---
-categories: "[[Index]]"
 tags:
   - Henry
   - Clare
+  - index
+categories: "[[Index]]"
 ---
 # [[First Date]]
 
@@ -15,5 +16,12 @@ tags:
 # [[Vanish Under Arrest]]
 
 # [[Mary Christina Heppworth’s birthday]]
+
+# [[Unwilling To Tell]]
+
+# [[Alone Longing]]
+
+# [[Determinism]]
+
 
 

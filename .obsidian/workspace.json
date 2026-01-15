@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "852ea90fef96750b",
+            "id": "b72e6dbf3a57e2b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/英语单词/words/E/endemic.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "endemic"
-            }
-          },
-          {
-            "id": "77c84ce76c811eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/英语单词/words/I/inept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "inept"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,6 +169,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "93d0b6aa7ace6a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
         ],
         "currentTab": 4
@@ -198,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -211,45 +201,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77c84ce76c811eda",
+  "active": "b72e6dbf3a57e2b5",
   "lastOpenFiles": [
-    "The_Time_Traveler's_Wife/2026-01-13-Vocabulary-TheTimeTravelersWife.md",
-    "English/英语单词/words/D/division.md",
-    "oddball.md",
-    "English/英语单词/words/G/grin.md",
-    "Age/28.md",
-    "English/英语单词/words/S/slender.md",
     "Vocabulary.md",
-    "English/英语单词/words/Z/ziggurat.md",
-    "English/英语单词/words/E/endemic.md",
-    "admixture.md",
-    "English/英语单词/words/D/dank.md",
-    "English/英语单词/words/D/daring.md",
-    "English/英语单词/words/D/darken.md",
-    "English/英语单词/words/D/darkroom.md",
-    "English/英语单词/words/D/darn.md",
-    "English/英语单词/words/C/camaraderie.md",
-    "English/英语单词/words/F/fervent.md",
-    "English/英语单词/words/E/exchequer.md",
-    "Base/2026-01-13.base",
-    "The_Time_Traveler's_Wife/2026-01-13-Sentence-TheTimeTravelersWife.md",
+    "Events/Determinism.md",
+    "Phrase.md",
+    "Index.md",
+    "Person.md",
+    "Age/20.md",
+    "Age/19.md",
+    "Age/15.md",
+    "Age/13.md",
+    "Age/11.md",
+    "Age/5.md",
+    "Age/6.md",
+    "Age/9.md",
+    "Age/12.md",
+    "Age/24.md",
+    "Age/27.md",
+    "Age/43.md",
+    "Age/36.md",
+    "Age/35.md",
+    "Base/Clare.base",
+    "Base/Date.base",
+    "Age/28.md",
     "Base/Henry.base",
+    "Persons/Clare.md",
+    "Persons/Henry.md",
+    "Events/Hunting Scene.md",
+    "Events.md",
+    "Events/Alone Longing.md",
+    "Year/1984.md",
+    "Base/2026-01-15.base",
+    "Base/2026-01-13.base",
     "Base/Different Seasons.base",
     "Base/{{date}}.base",
-    "Events/Vanish Under Arrest.md",
-    "Persons/Henry.md",
-    "Events/Mary Christina Heppworth’s birthday.md",
-    "Events/Gay thing.md",
-    "Index.md",
-    "Events.md",
-    "Date.md",
     "content/英语单词.base",
     "content/笔记/OpenText 说明/logo.png",
     "Excalidraw",
     "Untitled.base",
-    "Books",
-    "Persons",
-    "Events",
     "未命名.canvas"
   ]
 }

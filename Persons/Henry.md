@@ -2,6 +2,7 @@
 tags:
   - Henry
 person: "[[Henry]]"
+categories: "[[Person]]"
 ---
 # [[1991]]
 
@@ -10,6 +11,8 @@ person: "[[Henry]]"
 # [[1977]] 
 
 # [[1973]]
+
+# [[1984]]
 
 ---
 ![[Henry.base]]
